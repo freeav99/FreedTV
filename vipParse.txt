@@ -1,0 +1,217 @@
+﻿{
+  "data": [
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+    },
+    {
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://sb.5gseo.net/?url="
+    },
+
+    {
+      "id": 19,
+      "name": "猫群专用1",
+      "ad": "no",
+      "url": "https://jb.vjiangbei.com/home/api?type=ys&uid=281459&key=cfnoprCDJKLNPQTY34&url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用2",
+      "ad": "no",
+      "url": "http://api.vip123kan.vip/?url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用3",
+      "ad": "no",
+      "url": "http://ts.yjhan.com:8090/api/?key=njU0bfiF05eODFfktq&url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用4",
+      "ad": "no",
+      "url": "https://jx.300ys.xyz/jiexi/v.php/?url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用5",
+      "ad": "no",
+      "url": "http://120.77.94.20/jx?url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用6",
+      "ad": "no",
+      "url": "http://jx.maccms.ren/home/api?type=ys&uid=15959&key=abgisvyzFHJKOSTUW0&url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用7",
+      "ad": "no",
+      "url": "http://ts.yjhan.com:8090/api/?key=1BVRnXqJv5WOma49ti&url="
+    },
+    {
+      "id": 19,
+      "name": "猫群专用8",
+      "ad": "no",
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+
+    {
+      "id": 19,
+       "name": "json胖子",
+      "ad": "no",
+      "url": "http://jxx.pzapi.cn/jx/jx.php?url="
+    },
+    {
+       "id": 19,
+      "name": "json解析一",
+      "ad": "no",
+      "url": "http://jxgg.work/json.php?url="
+    },
+    {
+       "id": 19,
+      "name": "json备用",
+      "ad": "no",
+      "url": "https://svip.rongxingvr.top/api/?key=DbruSw4xHUGnhb1Jwm&url="
+    },
+    {
+       "id": 19,
+      "name": "盘古解析",
+      "ad": "no",
+      "url": "https://www.pangujiexi.com/pangu/?url="
+    },
+    {
+      "id": 19,
+      "name": "云解析",
+      "ad": "no",
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+
+    {
+      "id": 19,
+      "name": "闪电",
+      "url": "https://www.shankubf.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "卧龙",
+      "url": "https://jx.wolongzywcdn.com:65/m3u8.php?url="
+    },
+    {
+      "id": 19,
+      "name": "乐多",
+      "ad": "no",
+      "url": "https://api.ldjx.cc/wp-api/ifr.php?vid="
+    },
+    {
+      "id": 19,
+      "name": "飞速",
+      "ad": "no",
+      "url": "https://www.feisuplayer.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "if101",
+      "ad": "no",
+      "url": "https://demo.if101.tv/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "U酷",
+      "ad": "no",
+      "url": "https://api.ukubf1.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "番茄",
+      "ad": "no",
+      "url": "https://dp.8b5q.cn/dplayer/?url="
+    },
+    {
+      "id": 19,
+      "name": "无尽",
+      "ad": "no",
+      "url": "https://jx.xhswglobal.com/dplayer/?url="
+    },
+    {
+      "id": 19,
+      "name": "天空",
+      "ad": "no",
+      "url": "https://jx.huishij.com/yun/?url="
+    },
+    {
+      "id": 19,
+      "name": "百度",
+      "ad": "no",
+      "url": "https://jx.jxbdzyw.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "快播",
+      "ad": "no",
+      "url": "https://bf.maoaizy2.com/m3u8/index.php?url="
+    },
+    {
+      "id": 19,
+      "name": "北斗星",
+      "ad": "no",
+      "url": "https://player.bdxzym3u8.com/dplayer/?url="
+    },
+    {
+      "id": 19,
+      "name": "想看",
+      "ad": "no",
+      "url": "https://lyw28.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "樱花",
+      "ad": "no",
+      "url": "https://jx.yhzybf.com/player/jx.php?url="
+    },
+    {
+      "id": 19,
+      "name": "速更",
+      "ad": "no",
+      "url": "https://wuxiezx.com/player/?url="
+    },
+    {
+      "id": 19,
+      "name": "1920js",
+      "ad": "no",
+      "url": "https://json.1920i.com"
+    },
+    {
+      "id": 19,
+      "name": "1920lg",
+      "ad": "no",
+      "url": "https://json.1920lgzy.top"
+    },
+    {
+      "id": 19,
+      "ad": "no",
+      "name": "红牛",
+      "url": "https://www.tutukiki.com/m3u8/?url="
+    },
+    {
+      "id": 19,
+      "name": "红牛2",
+      "ad": "no",
+      "url": "https://www.hongniujiexi.com/m3u8/?url="
+    },
+
+    {
+      "id": 19,
+      "name": "猫默认解析",
+      "ad": "no",
+      "url": "https://m2090.com/?url="
+    }
+
+  ]
+}
